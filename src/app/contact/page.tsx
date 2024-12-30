@@ -54,11 +54,11 @@ export default function ContactPage() {
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 mr-2 text-blue-400" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+1 (585) 316-1899</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 mr-2 text-blue-400" />
-                  <span>123 Tech Street, Innovation City, 12345</span>
+                  <span>8 The Green, Suite B, Dover, DE 19901, United States</span>
                 </div>
               </div>
             </motion.div>
